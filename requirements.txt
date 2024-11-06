@@ -1,0 +1,6 @@
+# Start of Selection
+Flask
+google-cloud-secret-manager
+gunicorn
+# End of Selection
+
